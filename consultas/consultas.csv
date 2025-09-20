@@ -1,0 +1,7 @@
+1,SELECT * FROM tabela_nome_1
+2,SELECT * FROM tabela_nome_2
+3,SELECT * FROM (SELECT * FROM TABELA_NAO_REGISTRADA WHERE 1 = 1 AND 1 = 2)
+4,SELECT * FROM tabela_nome_1
+5,SELECT * FROM tabela_nome_2
+6,SELECT * FROM tabela_nome_3
+7,SELECT * FROM tabela_nome_5
